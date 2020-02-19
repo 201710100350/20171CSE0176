@@ -1,0 +1,60 @@
+<html>
+   <head>
+  <title></title>
+<style>
+.pink{
+color:#fff0ff;
+}
+h2{
+color:#ff0fff;
+}
+
+</style>
+
+   </head>
+
+<body>
+ <h1 align="center">L<sub>INDA</sub> D<sub>IAZ</sub></h1>
+
+<hr style="border:5px blue:">
+<h2>Professional Summary</h2>
+<p>Skilled siner merchiendiser accoumplished in product assembly.....</p>
+
+
+
+<h2>Work <i>History</i></h2>
+<h3>Retail & Marketing Experience</h3>
+<ul>
+<li>mentioned</li>
+<li>ascading</li>
+</ul>
+<p>stam caller university of virgirlia 
+<ul>
+<li>proceal alumini</li>
+<li>efficiency categorised</li>
+<li>encouraged</li>
+</ul>
+<hr/>
+<h2>Project <i>Management</i></h2>
+<p>UV black standard alliance
+<ul>
+<li>approach afforts</li>
+<li>coordinated<address>nated</address></li>
+</ul>
+
+<a href="home/6CSE3/Desktop/20171CSE0176/Time Table.html">timetable</a>
+<a href="www.gmail.com">Gmail</a>
+
+<a href="http://www.google.com"> Google... </a> <br>
+<a href="file:///home/6CSE3/Desktop/20171CSE0176/TimeTable"> My Timetable </a> <br>
+<a href = #skills> Skills </a> <br>
+<a href="https://www.presidencyuniversity.in"> my university </a> <br>
+
+<p>sample image</p>
+<img src="/home/6CSE3/Desktop/20171CSE0176/sample image.png"/>
+
+<hr/>
+<link rel="stylesheet"type="text/css"href="/home/6CSE3/Desktop/20171CSE0176/my style.css">
+
+</body>
+</html>
